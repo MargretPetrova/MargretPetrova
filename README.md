@@ -2,7 +2,7 @@
 
 
 
--🌱 I’m currently learning ***JavaScript, NodeJs, HTML, CSS***
+-🌱 I’m currently learning ***JavaScript, NodeJs, HTML, CSS, React JS, Express, Mongo DB***
 
 
 
